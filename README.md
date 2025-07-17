@@ -42,6 +42,8 @@ This task helped me grow as a designer—not just in visual design, but in colla
 
 # Output: 
 
-<img width="1440" height="1021" alt="Image" src="https://github.com/user-attachments/assets/dca114e1-91e2-48cd-88df-bf4195d76d7f" />
-<img width="1440" height="1009" alt="Image" src="https://github.com/user-attachments/assets/362b4d56-53f7-462f-accd-ad65face3acb" />
-<img width="1440" height="805" alt="Image" src="https://github.com/user-attachments/assets/727394ea-407e-45e3-9733-423fa707d45a" />
+<img width="1440" height="805" alt="Image" src="https://github.com/user-attachments/assets/da6d47a8-9593-4b50-a537-85435a216a7f" />
+
+<img width="1440" height="1009" alt="Image" src="https://github.com/user-attachments/assets/23235c5d-c799-4310-8ab4-590077ac191a" />
+
+<img width="1440" height="1021" alt="Image" src="https://github.com/user-attachments/assets/9dc6ba4a-fcc8-4b6f-b005-413e1d401705" />
